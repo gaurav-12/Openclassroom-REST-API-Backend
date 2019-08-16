@@ -7,7 +7,7 @@ In order to test the api, clone its Frontend code in a directory.
 ```
 > mkdir frontend
 > cd frontend
-> git clone https://github.com/OpenClassrooms-Student-Center/5614116-go-fullstack-recipe-frontend.git
+> git clone https://github.com/OpenClassrooms-Student-Center/5614116-go-fullstack-recipe-frontend.git .
 > npm install
 > ng serve
 ```
